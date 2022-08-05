@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Hizzle reCAPTCHA
- * Plugin URI: https://hizzle.co/recaptcha
+ * Plugin URI: https://github.com/AndyArt-ArtSystems/hizzle-recaptcha
  * Description: The ultimate WordPress and WooCommerce reCAPTCHA plugin
- * Version: 1.0.1
+ * Version: 101.0.1
  * Author: Hizzle
  * Author URI: https://hizzle.co/
  * Text Domain: hizzle-recaptcha
